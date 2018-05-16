@@ -1,8 +1,19 @@
-## Building DigitalNote
+[![Build Status](https://travis-ci.org/rainmanp7/digitalnote.svg?branch=master)](https://travis-ci.org/rainmanp7/digitalnote)
 
-### On *nix:
+## Building DigitalNote v4.05
 
-Dependencies: GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.55 or later.
+### On *Nix:
+
+Dependencies: GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.55 or 1.65.
+
+#### Preffered Build Dependencies:
+Cmake v10 or higher.
+
+Gcc v7 or higher.
+
+Boost v1.55 or v1.65
+
+Python v2.7 or v3.3
 
 You may download them from:
 
@@ -17,6 +28,7 @@ To build, change to a directory where this file is located, and run `make`. The 
 #### Advanced options:
 
 Parallel build: run `make -j<number of threads>` instead of `make`.
+Example: make -j2
 
 Debug build: run `make build-debug`.
 
@@ -26,6 +38,18 @@ Building with Clang: it may be possible to use Clang instead of GCC, but this ma
 
 ### On Windows:
 Dependencies: MSVC 2013 or later, CMake 2.8.6 or later, and Boost 1.55 or later. You may download them from:
+
+#### Preffered Windows Build:
+Microsoft Visual Studio 2017
+
+Boost v1.55 or v1.65
+Place the root folders of boost on the main drive.
+Corosponding to the build information.
+One folder for 32bit and one for 64bit builds.
+
+Load cmake and build release 32bit or 64bit.
+
+Python v2.7 or v3.3
 
 - http://www.microsoft.com/
 - http://www.cmake.org/

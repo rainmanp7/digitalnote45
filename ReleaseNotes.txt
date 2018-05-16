@@ -1,3 +1,24 @@
+Release notes v4.0.5 
+
+05-16-2018
+Normal alt coins I have tested or seen running.
+On normal analysis contain 20+ thousand issues.
+With a good several hundred thousand warnings.
+
+Right now xdn is in great shape in comparison.
+Only 1,275 errors and 12 warnings left to fix.
+From 14,957 errors and 659 warnings before.
+Code language upgrades needed are around 346
+places left to go.
+
+Updated upnpc folder code in external.
+Sealed various open code elements.
+Upgraded text and code by 3-4 years ahead.
+Updated and upgraded includes and defines.
+Upgraded Google folder code.
+Various random code fixes and text updates.
+"Pulling out of Beta Mode"
+
 Release notes 4.0.3-beta
 
 - Blockchain synchronization improvements
