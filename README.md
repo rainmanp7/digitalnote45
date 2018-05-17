@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rainmanp7/digitalnote.svg?branch=master)](https://travis-ci.org/rainmanp7/digitalnote)
+[![Build Status](https://travis-ci.org/rainmanp7/digitalnote45.svg?branch=master)](https://travis-ci.org/rainmanp7/digitalnote45)
 
 ## Building DigitalNote v4.05
 
